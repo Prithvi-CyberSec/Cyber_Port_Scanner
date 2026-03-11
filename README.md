@@ -2,7 +2,7 @@
 A fast and simple TCP port scanner that checks open ports on a target host.
 
 
-# Python Port Scanner 🔎
+# Port Scanner 🔎
 
 A fast and simple multithreaded port scanner written in Python.
 
